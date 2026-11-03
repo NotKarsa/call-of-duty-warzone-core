@@ -286,7 +286,7 @@ between them without re-tuning every value.
 
 ---
 
-*call-of-duty-warzone-core · Updated 2026-11-02 · Shared under the MIT License*
+*call-of-duty-warzone-core · Updated 2026-11-03 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-02*
+*Last updated: 2026-11-03*
